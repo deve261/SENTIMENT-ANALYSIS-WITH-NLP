@@ -68,3 +68,6 @@ Expanding the dataset for greater accuracy.
 Visualizing sentiment trends over time.
 
 #OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/86189d09-f122-49b2-93b5-119a5c9e4593)
+![Image](https://github.com/user-attachments/assets/1e8f405a-eba0-42ce-b7b5-c97bf731d1f5)
